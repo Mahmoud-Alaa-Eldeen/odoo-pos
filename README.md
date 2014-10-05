@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/odoo-pos/odoo-pos.svg?branch=7.0)](https://travis-ci.org/odoo-pos/odoo-pos)
-[![Coverage Status](https://img.shields.io/coveralls/odoo-pos/odoo-pos.svg)](https://coveralls.io/r/odoo-pos/odoo-pos?branch=7.0)
+[![Coverage Status](https://coveralls.io/repos/odoo-pos/odoo-pos/badge.png?branch=7.0)](https://coveralls.io/r/odoo-pos/odoo-pos?branch=7.0)
 
 odoo-pos
 ========
